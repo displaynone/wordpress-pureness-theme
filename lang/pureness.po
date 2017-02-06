@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pureness Wordpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-25 10:54+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Design is Pure <info@designispure>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\Proyectos\\www\\wordpress\\wp-content\\themes"
+"\\pureness\n"
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/404.php:5
+msgid "Sorry, page not found"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:68
+msgid ""
+"Please enable referrers in your browser, or, if you're a spammer, bugger off!"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:87
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:90
+msgid "&laquo; First"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:91
+msgid "Last &raquo;"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:92
+msgid "&raquo;"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:93
+msgid "&laquo;"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:94
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:95
+msgid "..."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:251
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:33
+msgid "Header"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:265
+msgid "Read"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:266
+msgid "Read more"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:267
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:268
+msgid "Hide"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:391
+msgid "Edit"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions.php:435
+#, php-format
+msgid ""
+"<h3>Featured image Size</h3><p>Featured image is not big enough. Minimum "
+"size: %sx%spx. Please upload another image. Thanks :)</p>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/header.php:20
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/header.php:21
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/header.php:22
+msgid "Page not found"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/index.php:24
+msgid "Featured"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/index.php:37
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/index.php:88
+msgid "Edit This"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/index.php:59
+msgid "Page "
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/index.php:115
+msgid "More"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:39
+msgid "Header Logo"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:41
+msgid "Your logo and favicon"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:44
+msgid ""
+"If you configure and SAVE your Twitter, Facebook or Google Plus account you "
+"will have more avatars to select from"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:47
+msgid "Identity"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:49
+msgid "<a href=\"http://twitter.com/\">Twitter</a> (Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:51
+msgid "http://twitter.com/<strong>username</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:56
+msgid "<a href=\"http://dribbble.com/\">Dribbble</a> (Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:58
+msgid "http://dribbble.com/<strong>id</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:63
+msgid "<a href=\"http://vimeo.com/\">Vimeo</a> (Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:65
+msgid "http://vimeo.com/<strong>username</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:70
+msgid "<a href=\"http://facebook.com/\">Facebook</a> (ID/Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:72
+msgid "http://facebook.com/<strong>id</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:77
+msgid "<a href=\"http://linkedin.com/\">Linkedin</a> (Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:79
+msgid "http://linkedin.com/in/<strong>username</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:84
+msgid "<a href=\"http://plus.google.com/\">Google+</a> (ID/Username Only)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:86
+msgid "https://plus.google.com/<strong>id</strong>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:94
+msgid "Portfolio Featured Image. Thumbnails sizes"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:96
+msgid "Modify/add thumbs sizes"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:101
+msgid ""
+"There are different thumbs sizes used in the theme, you can modify them or "
+"add new ones"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:106
+msgid "Footer Credits / Stats Code"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:108
+msgid "Stats code"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:110
+msgid "Paste your Google Analytics (or other) tracking code here<br>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:164
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:191
+msgid " Options"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:165
+msgid "Refresh Thumbs"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:181
+msgid " settings saved."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:183
+msgid " settings reset."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:197
+msgid "About Pureness Theme"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:198
+msgid "Support"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:203
+msgid ""
+"Pureness works in WordPress 3.4+ and is released under GPL License. This "
+"theme is designed and developed by <a href=\"http://desirity.com\">Desirity</"
+"a>. "
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:205
+msgid ""
+"We will not provide any support via email. If you have questions about using "
+"or extending this theme, our twitter account: <a href=\"http://twitter.com/"
+"desirity\">@desirity</a>. The best resources are the <a href=\"http://"
+"wordpress.org/support/\">WordPress Forums</a>. Thanks ;)."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:266
+msgid "Thumb ID"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:266
+msgid "Width"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:266
+msgid "Height"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:266
+msgid "Crop"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:270
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:285
+msgid "Delete"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:272
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:288
+msgid "Add"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:274
+msgid "You must update thumbs for getting new image sizes"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:421
+msgid ""
+"<strong>Page IDs and Names</strong> (<em>Archives Page</em> you can't "
+"exclude).<br />"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:480
+msgid "Your own picture (Size: 60x60px)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:497
+msgid "Save changes"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:503
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:416
+msgid "Reset"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/pureness-admin.php:550
+msgid ""
+"'<h3>Refresh Thumbs</h3><p>If you have changed the thumb sizes don\\'t "
+"forget to refresh them</p>'"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/refresh-thumbnails.php:19
+#, php-format
+msgid "%s's thumbs updated."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:65
+msgid "Reset gradient"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:199
+msgid "Reset color"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:317
+msgid "Reset pattern"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:592
+msgid "By selecting one of these skins, you change your site design instantly"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:597
+msgid "There are not any customized options saved yet"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:618
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:623
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:625
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:630
+msgid "\\'Save as\\' new name..."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:685
+msgid "Links"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:697
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:718
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:796
+msgid "Color"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:706
+msgid "Body font color"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:734
+msgid "Text Shadow Color"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:743
+msgid "Font"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:755
+msgid ""
+"Select one <a href=\"http://www.google.com/webfonts\">Google web fonts</a>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:763
+msgid "or write the name (p.s. Droid Sans)"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:777
+msgid "Size <small>(only for experts)</small>"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:784
+msgid "Background"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:811
+msgid "Patterns"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:819
+msgid "Skins"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/theme-customizer.php:831
+msgid "List"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:44
+msgid "Info"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:55
+msgid "Footer"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:95
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:148
+msgid "About"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:95
+msgid ""
+"This is a <strong>3 column widget</strong>.  About. Services. Values. 3 "
+"lines recommended. Use strong tag. Name, hometown and experience."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:96
+msgid "Services"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:96
+msgid ""
+"We craft functional and elegant <strong>interfaces</strong>. We have been "
+"helping small startups and big tech companies around the world since 2001."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:97
+msgid "Values"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/functions/widgets.php:97
+msgid ""
+"<strong>Less, but better</strong>. Back to simplicity. Back to purity. We "
+"work closely with you to develop your projects into memorable brands."
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:18
+msgid "All posts"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:19
+msgid "All pages"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:20
+msgid "All categories"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:21
+msgid "Pages"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:21
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:25
+msgid "Select all"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:25
+msgid "Categories"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:31
+msgid "Show in"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:32
+#, php-format
+msgid "Show in - %s"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:32
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/thumbnail.js.php:27
+msgid "Confirm"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/admin_widgets.js.php:32
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/thumbnail.js.php:27
+msgid "Cancel"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/js/thumbnail.js.php:27
+msgid "Modify thumbnail position"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:10
+msgid ""
+"Widget for follow links, your social identity: Twitter, Dribbble, Facebook, "
+"Google+, LinkedIn, E-Mail and RSS"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:15
+msgid "Custom Follow Links"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:163
+msgid "You must configure your social accounts in Pureness Theme Options"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:166
+msgid "Show E-Mail?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:171
+msgid "Show Twitter?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:176
+msgid "Show Dribbble?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:180
+msgid "Show Vimeo?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:184
+msgid "Show Facebook?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:188
+msgid "Show LinkedIn?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:192
+msgid "Show Google+?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/follow-links.php:196
+msgid "Show RSS?"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:10
+msgid "Widget to display your latest Twitter updates"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:16
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:41
+msgid "just now"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:42
+msgid "1 minute ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:43
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:44
+msgid "1 hour ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:45
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:46
+msgid "Yesterday"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:47
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:48
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:91
+msgid "Title:"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:96
+msgid "Number of tweets"
+msgstr ""
+
+#: C:\Proyectos\www\wordpress\wp-content\themes\pureness/widgets/twitter-timeline.php:100
+msgid ""
+"This widget shows you to display your latest tweets. Twitter account is "
+"configured in Pureness Theme Options"
+msgstr ""
